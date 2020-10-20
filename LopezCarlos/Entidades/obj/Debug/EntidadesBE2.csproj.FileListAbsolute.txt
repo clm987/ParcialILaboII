@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\LopezCarlos\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\source\repos\LopezCarlos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\source\repos\LopezCarlos\Entidades\obj\Debug\EntidadesBE2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\LopezCarlos\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\source\repos\LopezCarlos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\Documents\RepoDePrueba\LopezCarlos\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\Documents\RepoDePrueba\LopezCarlos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Documents\RepoDePrueba\LopezCarlos\Entidades\obj\Debug\EntidadesBE2.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\RepoDePrueba\LopezCarlos\Entidades\obj\Debug\EntidadesBE2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\RepoDePrueba\LopezCarlos\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\Documents\RepoDePrueba\LopezCarlos\Entidades\obj\Debug\Entidades.pdb
+C:\UTN\VersionFinalParcial1\LopezCarlos\Entidades\bin\Debug\Entidades.dll
+C:\UTN\VersionFinalParcial1\LopezCarlos\Entidades\bin\Debug\Entidades.pdb
+C:\UTN\VersionFinalParcial1\LopezCarlos\Entidades\obj\Debug\EntidadesBE2.csprojAssemblyReference.cache
+C:\UTN\VersionFinalParcial1\LopezCarlos\Entidades\obj\Debug\EntidadesBE2.csproj.CoreCompileInputs.cache
+C:\UTN\VersionFinalParcial1\LopezCarlos\Entidades\obj\Debug\Entidades.dll
+C:\UTN\VersionFinalParcial1\LopezCarlos\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesBE2", "Entidades\EntidadesBE2.csproj", "{A4883F74-7B07-4DEA-B886-731D90A3E865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KwikEMartFrontEnd", "KwikESalesFE\KwikEMartFrontEnd.csproj", "{49706317-BA1B-4557-A89D-53BA77213EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4883F74-7B07-4DEA-B886-731D90A3E865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4883F74-7B07-4DEA-B886-731D90A3E865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4883F74-7B07-4DEA-B886-731D90A3E865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4883F74-7B07-4DEA-B886-731D90A3E865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49706317-BA1B-4557-A89D-53BA77213EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49706317-BA1B-4557-A89D-53BA77213EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49706317-BA1B-4557-A89D-53BA77213EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49706317-BA1B-4557-A89D-53BA77213EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E06D953B-1D54-4AC4-8433-E684E711A8CA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+*************************|Kiw-E-Mart|*************************
+Fecha y Hora de Compra:20/10/2020 01:45:57 
+Nombre: Homero
+Apellido: simpson
+Documento: 32425312
+--------------------------------------------------
+Producto            |Marca               |Cantidad            
+Manteca             Girasol                      3
+Jamon               El cerdito                   3
+Harina              Salinas                      3
+--------------------------------------------------
+Monto total de la venta:  486,765

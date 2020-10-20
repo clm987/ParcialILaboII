@@ -1,0 +1,18 @@
+********************
+Para el Login:
+--------------------
+Usuario: fgrant
+Contraseña:1234
+
+Usuario: sganesh
+Contraseña:1111
+*********************
+Para la venta:
+--------------------
+Clientes con descuento:
+DNI cliente: 32425312
+DNI cliente: 14526325
+
+Clientes sin descuento:
+DNI cliente: 25789632
+**********************
